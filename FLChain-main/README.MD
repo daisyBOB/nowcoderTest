@@ -35,7 +35,7 @@ The default values for various paramters parsed to the experiment are given in `
 * ```--unequal:```  Used in non-iid setting. Option to split the data amongst users equally or unequally. Default set to 0 for equal splits. Set to 1 for unequal splits.
   
   用于非 iid 设置。在用户之间平均或不平等地拆分数据的选项。对于相等的拆分，默认设置为 0。对于不相等的拆分，设置为 1。
-## Usage用法
+## Usage用法//
 * To init global model on CNN :
 
   在CNN上引入全局模型
